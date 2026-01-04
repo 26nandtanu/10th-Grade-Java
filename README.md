@@ -29,25 +29,19 @@ Assignments
 7. Assign 6 - Tic Tac Toe
    Console-based two-player game.
 
-8. Bagels
-   Number guessing game.
-
-9. Currency Converter
+8. Currency Converter
    Converts between currencies.
 
-10. InvestmentCalculator
+9. InvestmentCalculator
     Simple investment projection.
 
-11. Loop Test Study
+10. Loop Test Study
     Loop practice exercises.
 
 12. LoopHW
     Additional loop exercises.
 
-13. One of a Kind
-    Small project demonstrating logic and uniqueness.
-
-14. Tax Calculator
+13. Tax Calculator
     Calculates tax based on input.
 
 ------------------------------
